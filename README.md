@@ -6,6 +6,11 @@ A responsive, elegant, and interactive web-based greeting card built to celebrat
 
 ---
 
+![Website Preview](imgt.png)
+
+---
+
+
 ## ✨ Features
 * 📱 Fully Responsive Design: Adapts perfectly to any screen size.
 * 🎨 Clean Architecture: Organized with separated production-ready files (`HTML`, CSS, and `JS`).
